@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>/pt/authors/</link>
+      <atom:link href="/pt/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>ThyagoLC, 2021</copyright>
+    <image>
+      <url>/images/icon_hu4b8fd900c9cad2d2d7da558d3d4bc20e_6789_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/pt/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
