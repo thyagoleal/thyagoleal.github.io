@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/pt/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/"
-                />
-  </url>
-  
-  <url>
     <loc>/pt/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,6 +55,20 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/pt/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/"
                 />
   </url>
   
