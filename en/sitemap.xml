@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/category/advice/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-02-27T19:28:01-08:00</lastmod>
+    <lastmod>2023-12-15T18:08:56-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -17,12 +14,10 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
     <xhtml:link
@@ -32,17 +27,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/programming-languages/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
     <xhtml:link
@@ -52,14 +43,12 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2023-02-27T19:28:01-08:00</lastmod>
+    <lastmod>2023-12-15T18:08:56-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -67,22 +56,16 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/programming-languages/which-programming-languages-should-i-learn/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2021-05-15T10:30:17-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -91,14 +74,12 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/thyago-leal-calvo/</loc>
-    <lastmod>2023-02-27T19:28:01-08:00</lastmod>
+    <lastmod>2023-12-15T18:08:56-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -106,9 +87,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/author/thyago-leal-calvo/"
                 />
   </url>
-  
 </urlset>

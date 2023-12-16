@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/pt/authors/</loc>
     <lastmod>2023-02-27T19:28:01-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/authors/"
                 />
     <xhtml:link
@@ -15,13 +14,11 @@
                 hreflang="pt"
                 href="/pt/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/categories/"
                 />
     <xhtml:link
@@ -29,13 +26,11 @@
                 hreflang="pt"
                 href="/pt/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pt/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/publication_types/"
                 />
     <xhtml:link
@@ -43,13 +38,11 @@
                 hreflang="pt"
                 href="/pt/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/tags/"
                 />
     <xhtml:link
@@ -57,14 +50,12 @@
                 hreflang="pt"
                 href="/pt/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pt/</loc>
     <lastmod>2023-02-27T19:28:01-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/"
                 />
     <xhtml:link
@@ -72,14 +63,12 @@
                 hreflang="pt"
                 href="/pt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/pt/author/thyago-leal-calvo/</loc>
     <lastmod>2023-02-27T19:28:01-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="/author/thyago-leal-calvo/"
                 />
     <xhtml:link
@@ -88,5 +77,4 @@
                 href="/pt/author/thyago-leal-calvo/"
                 />
   </url>
-  
 </urlset>
