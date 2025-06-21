@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/category/advice/</loc>
+    <loc>/en/category/advice/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2025-06-21T11:04:14-03:00</lastmod>
+    <loc>/en/authors/</loc>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
                 href="/authors/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/en/authors/"
+                />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
                 href="/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/en/categories/"
+                />
   </url><url>
-    <loc>/tag/programming-languages/</loc>
+    <loc>/en/tag/programming-languages/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
                 href="/tags/"
                 />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2025-06-21T11:04:14-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
+                href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/en/"
+                />
   </url><url>
-    <loc>/post/programming-languages/which-programming-languages-should-i-learn/</loc>
+    <loc>/en/post/programming-languages/which-programming-languages-should-i-learn/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>/en/post/</loc>
     <lastmod>2021-05-15T10:30:17-03:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
                 href="/publication_types/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/en/publication_types/"
+                />
   </url><url>
-    <loc>/author/thyago-leal-calvo-msc.-phd/</loc>
-    <lastmod>2025-06-21T11:04:14-03:00</lastmod>
+    <loc>/en/author/thyago-leal-calvo-msc.-phd/</loc>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/author/thyago-leal-calvo-msc.-phd/"
+                href="/author/thyago-leal-calvo-msc.-phd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/author/thyago-leal-calvo-msc.-phd/"
+                href="/en/author/thyago-leal-calvo-msc.-phd/"
                 />
   </url>
 </urlset>

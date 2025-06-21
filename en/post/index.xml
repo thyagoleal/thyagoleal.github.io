@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Thyago Leal Calvo</title>
+    <link>/en/post/</link>
+      <atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Thyago L.C., 2025</copyright>
+    <image>
+      <url>/images/icon_hu4b8fd900c9cad2d2d7da558d3d4bc20e_6789_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Which programming languages should I learn?</title>
+      <link>/en/post/programming-languages/which-programming-languages-should-i-learn/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>/en/post/programming-languages/which-programming-languages-should-i-learn/</guid>
+      <description>&lt;p&gt;Beginners in bioinformatics or curious alike often ask me this question. Perhaps it&amp;rsquo;s popular because there are several programming languages currently in use, or because they want to make sure they learn the right one.&lt;/p&gt;
+&lt;p&gt;Most of the time, my answer is: &lt;strong&gt;what problems are you going to solve?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The thing is, bioinformatics and computational biology are very diverse, both in their application as well as roles one can have. I agree with others&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that organize the field and its people into training categories. For this quick post purposes, I divide them into two main ones:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;users/analysts and scientists;&lt;/li&gt;
+&lt;li&gt;developers/engineers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you&amp;rsquo;re only going to do &lt;strong&gt;data analysis/data mining&lt;/strong&gt; and mostly use bioinformatics/computational biology as a toolset, then you&amp;rsquo;re better off learning &lt;strong&gt;scripting languages&lt;/strong&gt; and &lt;strong&gt;niche-specific&lt;/strong&gt; languages, such as Python, R, Ruby, and/or Bash. Additionally, depending on your specific role, query languages like SQL may be necessary. Please, note that structural bioinformaticians usually deal with different languages and tools compared to those involved in sequence analysis and phylogeny, for example. Still, knowledge of some general-purpose languages, like Python and Ruby, is helpful.&lt;/p&gt;
+&lt;p&gt;When you are a bioinformatics developer or engineer, the situation is a whole lot different. If you are only working with programs lightweight on resources, maybe you won&amp;rsquo;t even need lower-level languages. But, if you need speed, memory efficiency, integration with operating systems or hardware, complex graphic user interfaces (GUI), you must invest in learning C, C++, Rust or Java, for example. Each has its advantages and drawbacks, but they are solid initial choices for those needs.&lt;/p&gt;
+&lt;p&gt;In case you&amp;rsquo;re going to develop web tools, other languages may also be used, like Javascript, HTML, CSS and PHP, for example.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;There&amp;rsquo;s no point in entering language wars&amp;hellip; People usually pet their languages and disregard their limitations, don&amp;rsquo;t go that way. Programming languages are tools, use them in your favor and pay attention to their weaknesses and strengths, always thinking about what&amp;rsquo;s the right one for the job. Also, it&amp;rsquo;s helpful to see what&amp;rsquo;s the &lt;em&gt;de facto&lt;/em&gt; in applications similar to what you need, and it&amp;rsquo;s a good idea to follow academy/industry/employer needs. Most of the time, you can do pretty much anything regardless of the language. Of course, it is a lot easier to plot something in R than in C++; conversely, it may take some time to do some calculations in pure R that are fast in C or FORTRAN.&lt;/p&gt;
+&lt;p&gt;Good luck and enjoy the ride!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Welch et al., 2014; Plos Comput Bio. &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1003496&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1371/journal.pcbi.1003496&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

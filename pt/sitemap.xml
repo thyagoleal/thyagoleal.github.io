@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pt/authors/</loc>
-    <lastmod>2025-06-21T11:04:14-03:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="/authors/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/authors/"
-                />
   </url><url>
-    <loc>/pt/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/categories/"
-                />
   </url><url>
-    <loc>/pt/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="/publication_types/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/publication_types/"
-                />
   </url><url>
-    <loc>/pt/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/tags/"
-                />
   </url><url>
-    <loc>/pt/</loc>
-    <lastmod>2025-06-21T11:04:14-03:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/"
-                />
   </url><url>
-    <loc>/pt/author/thyago-leal-calvo-msc.-phd/</loc>
-    <lastmod>2025-06-21T11:04:14-03:00</lastmod>
+    <loc>/author/thyago-leal-calvo-msc.-phd/</loc>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="/author/thyago-leal-calvo-msc.-phd/"
+                href="/en/author/thyago-leal-calvo-msc.-phd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/author/thyago-leal-calvo-msc.-phd/"
+                href="/author/thyago-leal-calvo-msc.-phd/"
                 />
   </url>
 </urlset>
