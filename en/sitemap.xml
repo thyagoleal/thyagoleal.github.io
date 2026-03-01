@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/category/advice/</loc>
+    <lastmod>2021-05-28T11:01:52-03:00</lastmod>
+  </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -16,7 +19,7 @@
                 />
   </url><url>
     <loc>/en/categories/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
+    <lastmod>2021-05-28T11:01:52-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -28,17 +31,11 @@
                 href="/en/categories/"
                 />
   </url><url>
-    <loc>/en/tag/gene-editing/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
-  </url><url>
-    <loc>/en/post/next-generation-of-gene-editing-tools/next-gen-gene-editing/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
-  </url><url>
-    <loc>/en/category/news/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
+    <loc>/en/tag/programming-languages/</loc>
+    <lastmod>2021-05-28T11:01:52-03:00</lastmod>
   </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
+    <lastmod>2021-05-28T11:01:52-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -51,7 +48,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2026-02-17T09:40:36-03:00</lastmod>
+    <lastmod>2025-06-21T11:24:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -62,12 +59,6 @@
                 hreflang="en-us"
                 href="/en/"
                 />
-  </url><url>
-    <loc>/en/category/advice/</loc>
-    <lastmod>2021-05-28T11:01:52-03:00</lastmod>
-  </url><url>
-    <loc>/en/tag/programming-languages/</loc>
-    <lastmod>2021-05-28T11:01:52-03:00</lastmod>
   </url><url>
     <loc>/en/post/programming-languages/which-programming-languages-should-i-learn/</loc>
     <lastmod>2021-05-28T11:01:52-03:00</lastmod>
