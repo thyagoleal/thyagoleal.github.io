@@ -14,9 +14,9 @@
     
     <item>
       <title>Which programming languages should I learn?</title>
-      <link>/en/post/programming-languages/which-programming-languages-should-i-learn/</link>
+      <link>/en/post/programming-languages/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>/en/post/programming-languages/which-programming-languages-should-i-learn/</guid>
+      <guid>/en/post/programming-languages/</guid>
       <description>&lt;p&gt;Beginners in bioinformatics or curious alike often ask me this question. Perhaps it&amp;rsquo;s popular because there are several programming languages currently in use, or because they want to make sure they learn the right one.&lt;/p&gt;
 &lt;p&gt;Most of the time, my answer is: &lt;strong&gt;what problems are you going to solve?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The thing is, bioinformatics and computational biology are very diverse, both in their application as well as roles one can have. I agree with others&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that organize the field and its people into training categories. For this quick post purposes, I divide them into two main ones:&lt;/p&gt;
