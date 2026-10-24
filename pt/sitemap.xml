@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,10 +29,10 @@
                 />
   </url><url>
     <loc>/category/conselho/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -45,13 +45,13 @@
                 />
   </url><url>
     <loc>/tag/programacao/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/which-programming-languages-should-i-learn/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <loc>/post/teste/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -64,7 +64,7 @@
                 />
   </url><url>
     <loc>/</loc>
-    <lastmod>2026-10-24T09:50:18-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
