@@ -5,12 +5,23 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Thyago Leal Calvo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Thyago L.C., 2026</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>Thyago L.C., 2026</copyright><lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu4b8fd900c9cad2d2d7da558d3d4bc20e_6789_512x512_fill_lanczos_center_3.png</url>
       <title>Thyago Leal Calvo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Qual linguage de programação devo aprender?</title>
+      <link>/post/which-programming-languages-should-i-learn/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/post/which-programming-languages-should-i-learn/</guid>
+      <description>&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;There&amp;rsquo;s no point in entering language wars&amp;hellip; People usually pet their languages and disregard their limitations, don&amp;rsquo;t go that way. Programming languages are tools, use them in your favor and pay attention to their weaknesses and strengths, always thinking about what&amp;rsquo;s the right one for the job. Also, it&amp;rsquo;s helpful to see what&amp;rsquo;s the &lt;em&gt;de facto&lt;/em&gt; in applications similar to what you need, and it&amp;rsquo;s a good idea to follow academy/industry/employer needs. Most of the time, you can do pretty much anything regardless of the language. Of course, it is a lot easier to plot something in R than in C++; conversely, it may take some time to do some calculations in pure R that are fast in C or FORTRAN.&lt;/p&gt;
+&lt;p&gt;Good luck and enjoy the ride!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
