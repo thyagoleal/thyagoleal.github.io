@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/category/anuncios/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -15,8 +18,11 @@
                 href="/authors/"
                 />
   </url><url>
+    <loc>/tag/biologia-molecular/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -28,20 +34,26 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/category/conselho/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <loc>/tag/crispr/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/neurociencia-molecular/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/postagens/vagas-abertas-no-meu-laboratorio/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/pos-graduacao/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/postagens/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/programacao/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
-  </url><url>
-    <loc>/postagens/teste/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <loc>/tag/recrutamento/</loc>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -54,7 +66,7 @@
                 />
   </url><url>
     <loc>/</loc>
-    <lastmod>2026-10-24T09:58:45-03:00</lastmod>
+    <lastmod>2026-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
